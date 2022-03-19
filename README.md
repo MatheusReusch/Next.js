@@ -23,7 +23,7 @@ O Next.js utiliza o File-based Routing que surge para facilitar a criação de r
 Após executar o comando npx create-next-app, você poderá acessar a pasta src/pages e configurar suas rotas de acordo com o nome dos arquivos.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/91349862/159138398-9123d5f7-5dd0-4c5a-ba15-97bcce5fa43d.PNG" width="500px" height="400px" />
+<img src="https://user-images.githubusercontent.com/91349862/159138398-9123d5f7-5dd0-4c5a-ba15-97bcce5fa43d.PNG" width="500px" height="450px" />
 </div>
 
 Nesse caso, ocorre a criação de algumas rotas estáticas e dinâmicas como: '/' (index.js), '/login' (login.js), '/clientes' (clientes.js).
@@ -47,5 +47,5 @@ Para isso, basta executar o comando "npx create-next-app name-of-your-app" na pa
 Após esperar alguns instantes para o projeto ser criado, você irá se deparar com a seguinte estrutura.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/91349862/159138826-c9133e2b-3461-4aba-a65c-78007ea5593e.PNG" width="500px" height="400px" />
+<img src="https://user-images.githubusercontent.com/91349862/159138826-c9133e2b-3461-4aba-a65c-78007ea5593e.PNG" width="500px" height="450px" />
 </div>
