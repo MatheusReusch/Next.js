@@ -8,7 +8,7 @@
 </div>
 <h2>Se você está interessado em renderizar suas aplicações em React.js no lado servidor e conseguir maior escalabilidade para seus projetos, você precisa conhecer o framework Next.js!</h2>
 
-<h3><u>Qual a importância da renderização no lado servidor?</u></h3>
+<h3>Qual a importância da renderização no lado servidor?</h3>
 
 Por padrão o React utiliza o Client-side Rendering, trazendo alguns prejuízos em relação ao Server-Side Rendering, principalmente quando avaliada a adequação da aplicação para os mecanismos de busca e SEO. Nesse contexto, a renderização do lado cliente acaba não permitindo uma avaliação e pesquisa concreta pelos mecanismos de busca, pois,enquanto a página está sendo renderizada, essas ferramentas de SEO a interpretam como um esqueleto de HTML vazio e sem conteúdo.
 
