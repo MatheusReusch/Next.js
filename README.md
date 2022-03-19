@@ -32,7 +32,7 @@ Os nomes de arquivos com colchetes "[]" representam as rotas dinâmicas.
 
 Dessa forma, o Next.js dispensa a necessidade de instalação de ferramentas externas para a criação de rotas.
 
-<h3>Como funciona a criação de rotas para API?</h3>
+<h2>Como funciona a criação de rotas para API?</h2>
 
 O Next.js também disponibliza a pasta src/pages/api para a criação de rotas de API's para o back-end.
 
