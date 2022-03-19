@@ -23,5 +23,5 @@ O Next.js utiliza o File-based Routing que surge para facilitar a criação de r
 Após executar o comando npx create-next-app, você poderá acessar a pasta src/pages e configurar suas rotas de acordo com o nome dos arquivos.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/91349862/159138398-9123d5f7-5dd0-4c5a-ba15-97bcce5fa43d.PNG" width="500px" height="100px" />
+<img src="https://user-images.githubusercontent.com/91349862/159138398-9123d5f7-5dd0-4c5a-ba15-97bcce5fa43d.PNG" width="500px" height="500px" />
 </div>
