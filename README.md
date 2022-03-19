@@ -16,4 +16,4 @@ Nesse sentido, o Next.js surgiu para combinar o Client-Side Rendering e o Server
 
 Para isso, o Next.js renderiza o conteúdo no servidor e,após, devolve para o cliente. Todo esse processo é realizado com a utilização do Node.js para permitir a execução de código JavaScript no lado servidor.
 
-<h3>Como o sistema de rotas baseado em arquivos funciona?</h3>
+<h3>Como o sistema de rotas baseado em arquivos (File-based Routing) funciona?</h3>
