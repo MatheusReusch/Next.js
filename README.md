@@ -55,3 +55,8 @@ Após esperar alguns instantes para o projeto ser criado, você irá se deparar 
 <h4>Pages:</h4>
 
 A pasta Pages é onde ficará toda a estrutura de código de sua aplicação (Componentes, Funções, Rotas e etc).
+
+<h4>Public:</h4>
+
+A pasta Public serve para armazenar alguns arquivos que serão úteis para o projeto (Imagens, Icons e etc).
+
