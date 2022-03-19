@@ -49,3 +49,5 @@ Após esperar alguns instantes para o projeto ser criado, você irá se deparar 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91349862/159138826-c9133e2b-3461-4aba-a65c-78007ea5593e.PNG" width="500px" height="450px" />
 </div>
+
+<h3>Pastas do Projeto:</h3>
