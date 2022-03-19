@@ -60,5 +60,10 @@ A pasta Pages é onde ficará toda a estrutura de código de sua aplicação (Co
 
 <h4>Public:</h4>
 
-A pasta Public serve para armazenar alguns arquivos que serão úteis para o projeto (Imagens, Icons e etc).
+A pasta Public serve para armazenar alguns arquivos que serão úteis para o projeto (Imagens, Icones e etc).
+
+<h4>Styles:</h4>
+
+Essa pasta pode conter todos os arquivos de CSS da sua aplicação, porém você pode optar por colocá-los em outra pasta.
+
 
