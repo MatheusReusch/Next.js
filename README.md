@@ -66,4 +66,4 @@ A pasta Public serve para armazenar alguns arquivos que serão úteis para o pro
 
 Essa pasta pode conter todos os arquivos de CSS da sua aplicação, porém você pode optar por colocá-los em outra pasta.
 
-Para consolidar e aprofundar os conceitos vistos neste artigo, sugiro a construção de projetos utilizando esse framework para expandir ainda mais os conhecimentos acerca dessa ferramenta.
+<h3>Para consolidar e aprofundar os conceitos vistos neste artigo, sugiro a construção de projetos utilizando esse framework para expandir ainda mais os conhecimentos acerca dessa ferramenta.</h3>
