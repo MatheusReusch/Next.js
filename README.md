@@ -39,3 +39,5 @@ O Next.js também disponibliza a pasta src/pages/api para a criação de rotas d
 Dessa maneira, a criação das rotas funciona da mesma maneira comentada no tópico anterior.
 
 Portanto, caso seja criado um arquivo tempo.js dentro da pasta "src/pages/api", o caminho será "/api/tempo".
+
+<h2>Como criar uma aplicação utilizando o Next.js</h2>
