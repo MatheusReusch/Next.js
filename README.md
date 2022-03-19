@@ -28,7 +28,7 @@ Após executar o comando npx create-next-app, você poderá acessar a pasta src/
 
 Nesse caso, ocorre a criação de algumas rotas estáticas e dinâmicas como: '/' (index.js), '/login' (login.js), '/clientes' (clientes.js).
 
-Os nomes de arquivos com colchetes ([]) representam as rotas dinâmicas.
+Os nomes de arquivos com colchetes "[]" representam as rotas dinâmicas.
 
 Dessa forma, o Next.js dispensa a necessidade de instalação de ferramentas externas para a criação de rotas.
 
