@@ -41,3 +41,7 @@ Dessa maneira, a criação das rotas funciona da mesma maneira comentada no tóp
 Portanto, caso seja criado um arquivo tempo.js dentro da pasta "src/pages/api", o caminho será "/api/tempo".
 
 <h2>Como criar uma aplicação utilizando o Next.js</h2>
+
+Para isso, basta executar o comando "npx create-next-app name-of-your-app" na pasta que deseja criar o projeto.
+
+Após esperar alguns instantes para o projeto ser criado, você irá se deparar com a seguinte estrutura.
