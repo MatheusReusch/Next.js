@@ -4,7 +4,7 @@
 </div>
 <h1>Está interessado em entender o motivo da crescente popularização e utilização desse framework?</h1>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/91349862/159137385-14d1faaa-59e5-475d-b78f-871d4c752fee.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/91349862/159137454-b719796f-a7fb-44e0-97b4-24a55aba0c45.png" width="700px" />
 </div>
 # Se você está interessado em renderizar suas aplicações em React.js no lado servidor e conseguir maior escalabilidade para seus projetos, você precisa conhecer o framework Next.js!
 
