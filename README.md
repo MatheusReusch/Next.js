@@ -45,3 +45,7 @@ Portanto, caso seja criado um arquivo tempo.js dentro da pasta "src/pages/api", 
 Para isso, basta executar o comando "npx create-next-app name-of-your-app" na pasta que deseja criar o projeto.
 
 Após esperar alguns instantes para o projeto ser criado, você irá se deparar com a seguinte estrutura.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/91349862/159138826-c9133e2b-3461-4aba-a65c-78007ea5593e.PNG" width="500px" height="400px" />
+</div>
