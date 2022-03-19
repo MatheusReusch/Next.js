@@ -8,7 +8,7 @@
 </div>
 <h1>Se você está interessado em renderizar suas aplicações em React.js no lado servidor e conseguir maior escalabilidade para seus projetos, você precisa conhecer o framework Next.js!</h1>
 
-<h3>Qual a importância da renderização no lado servidor?</h3>
+<h2>Qual a importância da renderização no lado servidor?</h2>
 
 Por padrão o React utiliza o Client-side Rendering, trazendo alguns prejuízos em relação ao Server-Side Rendering, principalmente quando avaliada a adequação da aplicação para os mecanismos de busca e SEO. Nesse contexto, a renderização do lado cliente acaba não permitindo uma avaliação e pesquisa concreta pelos mecanismos de busca, pois,enquanto a página está sendo renderizada, essas ferramentas de SEO a interpretam como um esqueleto de HTML vazio e sem conteúdo.
 
@@ -16,7 +16,7 @@ Nesse sentido, o Next.js surgiu para combinar o Client-Side Rendering e o Server
 
 Para isso, o Next.js renderiza o conteúdo no servidor e,após, devolve para o cliente. Todo esse processo é realizado com a utilização do Node.js para permitir a execução de código JavaScript no lado servidor.
 
-<h3>Como o sistema de rotas baseado em arquivos (File-based Routing) funciona?</h3>
+<h2>Como o sistema de rotas baseado em arquivos (File-based Routing) funciona?</h2>
 
 O Next.js utiliza o File-based Routing que surge para facilitar a criação de rotas (estáticas e dinâmicas) em aplicações React. 
 
