@@ -21,3 +21,7 @@ Para isso, o Next.js renderiza o conteúdo no servidor e,após, devolve para o c
 O Next.js utiliza o File-based Routing que surge para facilitar a criação de rotas (estáticas e dinâmicas) em aplicações React. 
 
 Após executar o comando npx create-next-app, você poderá acessar a pasta src/pages e configurar suas rotas de acordo com o nome dos arquivos.
+
+<div align="center">
+<img src="" width="700px" />
+</div>
