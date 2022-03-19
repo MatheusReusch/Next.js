@@ -6,7 +6,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91349862/159137535-032f79e1-6bb6-431b-80b4-b2f3850f3678.png" width="700px" />
 </div>
-<h2>Se você está interessado em renderizar suas aplicações em React.js no lado servidor e conseguir maior escalabilidade para seus projetos, você precisa conhecer o framework Next.js!</h2>
+<h1>Se você está interessado em renderizar suas aplicações em React.js no lado servidor e conseguir maior escalabilidade para seus projetos, você precisa conhecer o framework Next.js!</h1>
 
 <h3>Qual a importância da renderização no lado servidor?</h3>
 
