@@ -1,2 +1,2 @@
 # Next.js
-Artigo escrito por Matheus Reusch com objetivo de refletir sobre o futuro do mercado e das tecnolgoias utilizadas no Desenvolvimento Front-end.
+# Se você está interessado em renderizar suas aplicações em React.js no lado servidor e conseguir maior escalabilidade para seus projetos, você precisa conhecer o framework Next.js!
